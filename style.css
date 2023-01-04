@@ -1,0 +1,13 @@
+h1,h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 32px;
+    color: rgba(100, 68, 10, 0.986);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(18, 166, 224);
+}
+b{
+    color: purple;
+}
